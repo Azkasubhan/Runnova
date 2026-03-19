@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# next.js
+.next/
+out/
+
+# misc
+.DS_Store
+*.tsbuildinfo
+.env
+.env.*
