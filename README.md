@@ -131,6 +131,6 @@ This system provides a **practical, data-driven approach** to machine maintenanc
   <p>The people behind Runnova</p>
 </div>
 
-<a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1eOFVxZgBGwHtyDeV7OwQkiE4X2GUxEJE" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1GLKutpoK_r_ib5QIeCNnWxECZqcdrPdH" alt=""/></a> |
+<a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=17JzgCaF45gCTXnlIglXVKpq05sTQq5Vx" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1eOFVxZgBGwHtyDeV7OwQkiE4X2GUxEJE" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=1kbe9CbYZBaLMgQ-PSwiz179-lZVjKZ9v" alt=""/></a> | <a href="#"><img width="144px" height="180px" src="https://drive.google.com/uc?export=view&id=17fSXYU6hc4AbKMvgcrPub7wiV55OcjNr" alt=""/></a> |
 | --- | --- | --- | --- |
 | <div align="left"><h3><b>Muhammad Aris Maulana</b></h3></div> | <div align="left"><h3><b>Nazla Azzahra Hermana</b></h3></div> | <div align="left"><h3><b>Ladya Kalascha</b></h3></div> | <div align="left"><h3><b>Muhammad Azka Subhan</b></h3></div> |
