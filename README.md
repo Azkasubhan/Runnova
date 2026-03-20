@@ -86,7 +86,7 @@ This system helps managers:
 
 ---
 
-## ## 🎯 Objective
+## 🎯 Objective
 
 To help SMEs:
 
@@ -107,20 +107,20 @@ To help SMEs:
 &nbsp;&nbsp;&nbsp;
 <img src="https://drive.google.com/uc?export=view&id=1WO0_6pHyXlLauXg7wPid6Hx47taQW9ia" height="100" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://drive.google.com/uc?export=view&id=1w8OwkvE6qFq_P-C1NstExrNsMSPWbskr" height="100" />
+<img src="https://drive.google.com/uc?export=view&id=1uCRzc-eCUdaODISlRC3Tw0dMYXFuKmT9" height="100" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://drive.google.com/uc?export=view&id=1jqMcSncQcZb5Dpbsrylthsn8DiqPaxaj" height="100" />
+<img src="https://drive.google.com/uc?export=view&id=1FS48uINc4fyadtX7H5vXFQD0STd0KviL" height="100" />
 
 </div>
 <br>
 <div align="left">
-<h4>PostgreSQL | Next.js | Gemini AI | JWT Authentication | Prisma ORM</h4>
+<h4>PostgreSQL | Next.js | Gemini AI | AdaBoost | Arduino Uno</h4>
 </div>
 <br>
 
 ---
 
-## ## 🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Integration with IoT devices
 - Automated maintenance scheduling
@@ -129,7 +129,7 @@ To help SMEs:
 
 ---
 
-## ## 📌 Summary
+## 📌 Summary
 
 This system provides a **practical, data-driven approach** to machine maintenance, allowing SMEs to transition from reactive fixes to proactive, intelligent decision-making.
 
