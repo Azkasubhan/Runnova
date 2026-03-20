@@ -1,3 +1,13 @@
+<br>
+<div align="left">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1XCAVyqKwKbqmNq2C1_lcNXrKrcEXEByZ"
+    alt="Runnova Banner"
+    style="width:100%; max-width:1400px;"
+  />
+</div>
+<br>
+
 # 📊 Predictive Maintenance System for SMEs
 
 A scalable system designed to help Small and Medium Enterprises (SMEs) reduce costly downtime through **Remaining Useful Life (RUL) estimation**, **anomaly/change-point detection**, and an intuitive **machine health dashboard**.
