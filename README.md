@@ -4,13 +4,13 @@ A scalable system designed to help Small and Medium Enterprises (SMEs) reduce co
 
 ---
 
-## ## ✨ Overview
+## ✨ Overview
 
 Many SMEs still rely on aging machines that frequently break down. This system transforms maintenance from **reactive → predictive**, enabling better planning, reduced downtime, and lower operational costs.
 
 ---
 
-## ## 🚩 Problem
+## 🚩 Problem
 
 | Issue | Impact |
 |------|--------|
@@ -23,7 +23,7 @@ Many SMEs still rely on aging machines that frequently break down. This system t
 
 ---
 
-## ## 💡 Solution
+## 💡 Solution
 
 This system helps managers:
 
@@ -34,7 +34,7 @@ This system helps managers:
 
 ---
 
-## ## ⚙️ System Implementation
+## ⚙️ System Implementation
 
 ### 📥 Input Data (Sensor-Based)
 
@@ -54,7 +54,7 @@ This system helps managers:
 
 ---
 
-## ## 📊 Dashboard Features
+## 📊 Dashboard Features
 
 | Feature | Description |
 |--------|------------|
@@ -66,7 +66,7 @@ This system helps managers:
 
 ---
 
-## ## 🔑 Key Features
+## 🔑 Key Features
 
 - **Real-Time Machine Health Monitoring**  
 - **Remaining Useful Life Prediction (RUL)**  
