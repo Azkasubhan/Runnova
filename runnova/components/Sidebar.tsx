@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import {
   LayoutDashboard,
@@ -12,7 +13,6 @@ import {
   Settings,
   ChevronLeft,
   ChevronRight,
-  Zap,
 } from "lucide-react";
 import SidebarItem from "./SidebarItem";
 
@@ -31,7 +31,7 @@ const TOP_ITEMS: NavItem[] = [
 ];
 
 const BOTTOM_ITEMS: NavItem[] = [
-  { icon: Bot, label: "AI Assistant", href: "/assistant" },
+  { icon: Bot, label: "Nova AI", href: "/assistant" },
   { icon: Settings, label: "Settings", href: "/settings" },
 ];
 
@@ -56,13 +56,8 @@ export default function Sidebar({ collapsed, onToggle }: Props) {
       `}
     >
       {/* Brand */}
-      <Link href="/" className="flex items-center gap-2 px-3 py-3 border-b border-[#1e2d3d]">
-        <div className="bg-cyan-600 p-1 rounded flex-shrink-0">
-          <Zap className="w-3.5 h-3.5 text-white" />
-        </div>
-        {!collapsed && (
-          <span className="text-[#e2e8f0] font-extrabold text-sm tracking-tight">RUNNOVA</span>
-        )}
+      <Link href="/" className="flex items-center justify-center px-3 py-3 border-b border-[#1e2d3d]">
+        <Image src="/logo.png" alt="Runnova" width={collapsed ? 32 : 120} height={collapsed ? 32 : 40} className="flex-shrink-0" />
       </Link>
 
       {/* Top nav */}

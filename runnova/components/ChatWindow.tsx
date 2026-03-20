@@ -15,7 +15,7 @@ interface Props {
 
 const INITIAL_MESSAGE: ChatEntry = {
   role: "bot",
-  text: "Hello! I'm Runnova AI Assistant. I can help explain machine health, RUL predictions, sensor readings, and maintenance recommendations. What would you like to know?",
+  text: "Hello! I'm Nova AI Assistant. I can help explain machine health, RUL predictions, sensor readings, and maintenance recommendations. What would you like to know?",
 };
 
 export default function ChatWindow({
@@ -53,7 +53,7 @@ export default function ChatWindow({
         <div className="flex items-center gap-2">
           <div className="w-2 h-2 rounded-full bg-cyan-400 live-dot" />
           <span className="text-[#e2e8f0] text-xs font-semibold">
-            AI Assistant
+            Nova AI Assistant
           </span>
         </div>
         <button
